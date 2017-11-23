@@ -1,4 +1,4 @@
-# ReproducibleResearchResources
+# Reproducible Research Resources
 
 This repository contains information to help you make your research reproducible.
 
