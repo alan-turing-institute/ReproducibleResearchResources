@@ -1,4 +1,5 @@
 # Call for Turing Reproducible Research Champions
+
 **Application deadline:** Friday 23rd February 2018
 
 ## What is a Reproducible Research Champion?
@@ -15,7 +16,8 @@ make one of their recent papers into a great example of reproducible research.
 As well as generating great examples of reproducible research, the programme
 will capture the learning from making Champions' research reproducible as a set
 of resources to support other researchers in doing the same. We will also run a
-set of face to face drop-in sessions where research engineers and Reproducible Research Champions will provide hands on support and advice to other researchers
+series of face to face drop-in sessions where research engineers and Reproducible 
+Research Champions will provide hands on support and advice to other researchers
 at the institute to help them make their own research reproducible.
 
 ## What’s in it for the champions?
@@ -57,7 +59,7 @@ data ownership etc. Working out how to make research maximally reproducible in
 these scenarios is an important part of reducing the barriers to more widespread
 reproducibility, so if you are keen to be a Reproducible Research Champion but
 have restrictions on making data available, ask a question on the
-[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or email [Kirstie Whitaker](mailto:kirstiej@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
+[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or email [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
 
 **Time:** You will need to provide some time to support:
 - The RSE working to ensure your paper is reproducible by answering questions about
@@ -77,7 +79,7 @@ contributing to publicity material such as blog posts, articles and interviews.
 
 ## How do I apply?
 
-Applications should be sent to [Kirstie Whitaker](mailto:kirstiej@turing.ac.uk) by **Friday 23rd February**. These should
+Applications should be sent to [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) by **Friday 23rd February**. These should
 include:
 - A short explanation of why you would like to be a Reproducible Research
 Champion (no more than half a page).
@@ -92,6 +94,6 @@ there may be on making the code publicly available to all. There is no need to m
 any effort to tidy up or improve the code, as we expect to do this work as part of the programme.
 
 We strongly suggest getting in touch with the team to have an informal discussion
-about your publication, methods, data and code before you make you application.
+about your publication, methods, data and code before you make your application.
 You can do this via the
-[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or by emailing [Kirstie Whitaker](mailto:kirstiej@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
+[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or by emailing [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
