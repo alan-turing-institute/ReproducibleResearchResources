@@ -16,7 +16,7 @@ make one of their recent papers into a great example of reproducible research.
 As well as generating great examples of reproducible research, the programme
 will capture the learning from making Champions' research reproducible as a set
 of resources to support other researchers in doing the same. We will also run a
-series of face to face drop-in sessions where research engineers and Reproducible 
+series of face to face drop-in sessions where research engineers and Reproducible
 Research Champions will provide hands on support and advice to other researchers
 at the institute to help them make their own research reproducible.
 
@@ -79,21 +79,14 @@ contributing to publicity material such as blog posts, articles and interviews.
 
 ## How do I apply?
 
-Applications should be sent to [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) by **Friday 23rd February**. These should
-include:
-- A short explanation of why you would like to be a Reproducible Research
-Champion (no more than half a page).
-- A link to or copy of the paper you would like to make reproducible.
-- A link to or copy of the data supporting the paper. This should include a short
-description of how you used the data and any restrictions there may be on making the
-data publicly available to all. There is no need to make any effort to tidy up or
-improve the data, as we expect to do this work as part of the programme.
-- A link to or copy of the code supporting your paper. This should include a short
-description of how you used the code in generating the paper and any restrictions
-there may be on making the code publicly available to all. There is no need to make
-any effort to tidy up or improve the code, as we expect to do this work as part of the programme.
+Applications should be submitted via the short [online application form](https://goo.gl/forms/9znG3PFyBjuNNhM22) by **Friday 23rd February**. The
+form should only take a few minutes to complete. It asks for a few paragraphs
+about why you want to be a Reproducible Tesearch Champion and for you to upload
+or link to your paper plus the supporting data and code. There is no need to
+make any effort to improve or tidy up your data or code, as we expect to do this
+as part of the programme.
 
-We strongly suggest getting in touch with the team to have an informal discussion
-about your publication, methods, data and code before you make your application.
-You can do this via the
+We strongly suggest getting in touch with the team to have an informal
+discussion about your publication, methods, data and code before you make your
+application. You can do this via the
 [#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or by emailing [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
