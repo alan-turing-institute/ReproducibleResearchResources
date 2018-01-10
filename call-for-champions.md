@@ -53,8 +53,8 @@ is either published or submitted for publication (pre-prints count).
 
 **Methods, data and code:** You must be happy for the detailed methods, data and
 code associated with your paper to be made available to other researchers, and
-ideally the public at large. We understand that not all data can be made available
-in a completely open manner for a range of reasons such as ethics, data protection,
+ideally the public at large. We understand that not all data can be made
+publicly available for a range of reasons such as ethics, data protection,
 data ownership etc. Working out how to make research maximally reproducible in
 these scenarios is an important part of reducing the barriers to more widespread
 reproducibility, so if you are keen to be a Reproducible Research Champion but
