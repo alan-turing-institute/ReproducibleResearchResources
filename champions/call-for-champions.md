@@ -8,7 +8,7 @@ All too often research is published as "Trust me, I'm a scientist": there is no
 way for the reader to confirm the results that are presented.
 
 We (Research fellow [Kirstie Whitaker](https://github.com/kirstiej) and
-Principal Research Software Engineer [Martin O'Reilly](https://github.com/martintoreilly))
+lead research software engineer [Martin O'Reilly](https://github.com/martintoreilly))
 want to make it the norm to share data and code alongside the written manuscript.
 We want work published by Turing researchers to be regarded as a gold standard
 example for data science, advancing the boundaries of what we know by providing
