@@ -1,10 +1,11 @@
 # Reproducible Research Lunches
 
 **When:** Every Friday from 1pm to 2pm
+
 **Where:** Jack Good meeting room
 
 Starting from tomorrow - Friday 12th January - research fellow Kirstie Whitaker
-and head of research software engineering Martin O'Reilly will be hosting
+and principal research software engineer Martin O'Reilly will be hosting
 weekly informal lunch time drop in sessions to discuss anything (and everything)
 related to reproducible research.
 
