@@ -117,7 +117,8 @@ contributing to publicity material such as blog posts, articles and interviews.
 
 ## How do I apply?
 
-Applications should be submitted via the short [online application form](https://goo.gl/forms/9znG3PFyBjuNNhM22) by **Friday 23rd February**. The form should take less than 30 minutes to complete.
+Applications should be submitted via the short [online application form](https://goo.gl/forms/n8ngxsawxQotq6nA2) by **Sunday 25th February 2018**.
+The form should take less than 30 minutes to complete.
 
 It asks for a few sentences (around 200 words) about why you want to be a Reproducible Research Champion
 and for you to upload or link to your paper plus the supporting data and code.
