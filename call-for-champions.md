@@ -1,8 +1,20 @@
 # Call for Turing Reproducible Research Champions
 
 **Application deadline:** Friday 23rd February 2018
+**Application link:** https://goo.gl/forms/n8ngxsawxQotq6nA2
+
+All too often research is published as "Trust me, I'm a scientist": there is no
+way for the reader to confirm the results that are presented.
+
+We - Research fellow [Kirstie Whitaker](https://github.com/kirstiej) and head 
+of Research Software Engineering [Martin O'Reilly](https://github.com/martintoreilly)
+- want to make it the norm to share data and code alongside the written manuscript.
+We want work published by Turing researchers to be regarded as a gold standard
+example for data science, advancing the boundaries of what we know by providing
+all the necessary evidence to verify those findings.
 
 ## What is a Reproducible Research Champion?
+
 We're looking for Turing researchers who want to take their research to the
 next level in terms of reproducibility and help us establish a culture of
 reproducible research at the Turing.
@@ -21,6 +33,7 @@ Research Champions will provide hands on support and advice to other researchers
 at the institute to help them make their own research reproducible.
 
 ## What’s in it for the champions?
+
 **RSE time:** Each Champion will receive **2-4 weeks of RSE support** from
 one of the Turing's Research Software Engineers (RSEs). The RSE will do most of
 the work required to make your paper reproducible, but they will need some time
@@ -32,6 +45,7 @@ your work as part of a widespread and high-profile publicity campaign
 highlighting reproducible research best practice at the institute.
 
 ## What’s in it for the Turing?
+
 **Impact:** One of the Turing's goals is to increase the impact of data science
 research and ensuring that the institute's research reproducible is a key
 part of this.
@@ -48,6 +62,7 @@ sessions will also help other researchers in making their own research
 reproducible.
 
 ## What will be asked of me as a champion?
+
 **A paper:** You must have a paper you want to make reproducible that
 is either published or submitted for publication (pre-prints count).
 
@@ -62,12 +77,14 @@ have restrictions on making data available, ask a question on the
 [#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or email [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
 
 **Time:** You will need to provide some time to support:
+
 - The RSE working to ensure your paper is reproducible by answering questions about
 your methods, code or data, and helping to troubleshoot any issues they have
 reproducing your results. This will require a few hours a week for up to 4 weeks
 sometime during April, May or June. **[8-16 hours total]**
 - The capturing of learning from the programme as a set of resources to support
-other researchers to make their research reproducible. This will require your attendance at one or two review sessions after all Champions' papers have been
+other researchers to make their research reproducible. This will require your attendance
+at one or two review sessions after all Champions' papers have been
 made reproducible, as well as some time to review and provide feedback on the
 resources produced. **[8-12 hours total]**
 - Attending a subset of the reproducible research drop-in sessions to help other
@@ -79,14 +96,17 @@ contributing to publicity material such as blog posts, articles and interviews.
 
 ## How do I apply?
 
-Applications should be submitted via the short [online application form](https://goo.gl/forms/9znG3PFyBjuNNhM22) by **Friday 23rd February**. The
-form should only take a few minutes to complete. It asks for a few paragraphs
-about why you want to be a Reproducible Tesearch Champion and for you to upload
-or link to your paper plus the supporting data and code. There is no need to
-make any effort to improve or tidy up your data or code, as we expect to do this
-as part of the programme.
+Applications should be submitted via the short [online application form](https://goo.gl/forms/9znG3PFyBjuNNhM22) by **Friday 23rd February**. The form should take less than 30 minutes to complete.
+
+It asks for a few sentences (around 200 words) about why you want to be a Reproducible Research Champion
+and for you to upload or link to your paper plus the supporting data and code.
+
+***There is no need to make any effort to improve or tidy up your data or code,
+as we expect to do this as part of the programme.***
 
 We strongly suggest getting in touch with the team to have an informal
 discussion about your publication, methods, data and code before you make your
 application. You can do this via the
-[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR) or by emailing [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or [Martin O'Reilly](mailto:moreilly@turing.ac.uk).
+[#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR)
+or by emailing [Kirstie Whitaker](mailto:kwhitaker@turing.ac.uk) or
+[Martin O'Reilly](mailto:moreilly@turing.ac.uk).
