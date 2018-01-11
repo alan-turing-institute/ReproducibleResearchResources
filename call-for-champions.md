@@ -1,6 +1,6 @@
 # Call for Turing Reproducible Research Champions
 
-**Application deadline:** Friday 23rd February 2018
+**Application deadline:** Sunday 25th February 2018
 **Application link:** https://goo.gl/forms/n8ngxsawxQotq6nA2
 
 All too often research is published as "Trust me, I'm a scientist": there is no
