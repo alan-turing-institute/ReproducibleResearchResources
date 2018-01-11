@@ -13,6 +13,26 @@ We want work published by Turing researchers to be regarded as a gold standard
 example for data science, advancing the boundaries of what we know by providing
 all the necessary evidence to verify those findings.
 
+## What is Reproducible Research?
+Reproducible research is work that can be independently verified. In practice it
+means sharing the data and the code that were used to generate research
+results. Without the evidence of what was done, journal articles are simply
+nice, interesting stories. All readers, not just collaborators or the original
+authors, must be able to check published research.
+
+For the Turing, reproducibility ensures that the wider academic, industry and
+governmental communities we operate in can easily validate, replicate and build
+on the work we produce. This helps us extend the Turing's impact beyond the
+immediate outputs of the institute itself, providing a "force multiplier" effect
+on the progress of Data Science in the UK and beyond.
+
+With an increasing focus on the scientific "reproducibility crisis" by the
+[academic](http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970)
+and [popular](http://www.bbc.co.uk/news/science-environment-39054778) press, as
+well as by [government](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2015/inquiry6/),
+ensuring that the Turing takes a leadership role in making research reproducible
+is more important than ever.
+
 ## What is a Reproducible Research Champion?
 
 We're looking for Turing researchers who want to take their research to the
