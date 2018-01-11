@@ -1,14 +1,15 @@
 # Call for Turing Reproducible Research Champions
 
 **Application deadline:** Sunday 25th February 2018
+
 **Application link:** https://goo.gl/forms/n8ngxsawxQotq6nA2
 
 All too often research is published as "Trust me, I'm a scientist": there is no
 way for the reader to confirm the results that are presented.
 
-We - Research fellow [Kirstie Whitaker](https://github.com/kirstiej) and head 
-of Research Software Engineering [Martin O'Reilly](https://github.com/martintoreilly)
-- want to make it the norm to share data and code alongside the written manuscript.
+We (Research fellow [Kirstie Whitaker](https://github.com/kirstiej) and
+Principal Research Software Engineer [Martin O'Reilly](https://github.com/martintoreilly))
+want to make it the norm to share data and code alongside the written manuscript.
 We want work published by Turing researchers to be regarded as a gold standard
 example for data science, advancing the boundaries of what we know by providing
 all the necessary evidence to verify those findings.
@@ -42,7 +43,7 @@ reproducible research at the Turing.
 Enthusiasm for reproducible research is the most important factor. There are many
 reasons that researchers who believe in reproducible research struggle to make
 their research reproducible in practice, and Champions will receive significant
-support from the Turing Research Engineering team to overcome these barriers to
+support from the Turing's Research Software Engineers to overcome these barriers to
 make one of their recent papers into a great example of reproducible research.
 
 As well as generating great examples of reproducible research, the programme
