@@ -8,7 +8,7 @@ This is a public repository and all resources are available under a [CC-BY licen
 
 * [FAQ: Open Access](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/FAQ_OpenAccess.md)
 * [Call for Turing Reproducibile Research Champions](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/call-for-champions.md) [Apply by Sunday 25th Feb 2018]
-* [Reproducible Research Lunches](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md) [Every Friday in Jack Good meeting room]
+* [Reproducible Research Lunches](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md) [Every Friday at 12noon on Ursula Franklin meeting room]
 
 ## Contributors
 
