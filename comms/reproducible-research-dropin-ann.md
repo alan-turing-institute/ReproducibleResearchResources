@@ -1,8 +1,8 @@
 # Reproducible Research Lunches
 
-**When:** Every Friday from 1pm to 2pm
+**When:** Every Friday from 12noon to 1pm
 
-**Where:** Jack Good meeting room
+**Where:** Ursula Franklin meeting room
 
 Starting from tomorrow - Friday 12th January - research fellow Kirstie Whitaker
 and lead research software engineer Martin O'Reilly will be hosting
