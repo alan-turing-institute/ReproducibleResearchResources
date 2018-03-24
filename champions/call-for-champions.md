@@ -1,6 +1,6 @@
 # Call for Turing Reproducible Research Champions
 
-**Application deadline:** Sunday 25th February 2018
+**Application deadline:** Monday 02 April 2018
 
 **Application link:** https://goo.gl/forms/n8ngxsawxQotq6nA2
 
@@ -117,7 +117,7 @@ contributing to publicity material such as blog posts, articles and interviews.
 
 ## How do I apply?
 
-Applications should be submitted via the short [online application form](https://goo.gl/forms/n8ngxsawxQotq6nA2) by **Sunday 25th February 2018**.
+Applications should be submitted via the short [online application form](https://goo.gl/forms/n8ngxsawxQotq6nA2) by **Monday 02 April 2018**.
 The form should take less than 30 minutes to complete.
 
 It asks for a few sentences (around 200 words) about why you want to be a Reproducible Research Champion
