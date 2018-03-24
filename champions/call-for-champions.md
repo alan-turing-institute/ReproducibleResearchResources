@@ -102,7 +102,7 @@ have restrictions on making data available, ask a question on the
 - The RSE working to ensure your paper is reproducible by answering questions about
 your methods, code or data, and helping to troubleshoot any issues they have
 reproducing your results. This will require a few hours a week for up to 4 weeks
-sometime during April, May or June. **[8-16 hours total]**
+sometime during May, June or July. **[8-16 hours total]**
 - The capturing of learning from the programme as a set of resources to support
 other researchers to make their research reproducible. This will require your attendance
 at one or two review sessions after all Champions' papers have been
