@@ -11,9 +11,10 @@ Available at [arXiv:1704.07221](https://arxiv.org/abs/1704.07221) [cs.CL].
 
 Elena's co-authors were Maria Liakata and Isabelle Augenstein.
 
-<img src="./elena-kochkina.jpg" height="300"> | <img src="./maria-liakata.png" height="300">
-:-----------------------:|:---------------------------:
- Elena Kochkina           | Maria Liakata
+
+| <img src="./elena-kochkina-square.jpg" height="300"> | <img src="./maria-liakata-square.jpg" height="300">
+| :-----------------------:|:---------------------------:
+| Elena Kochkina           | Maria Liakata
 
 ## Reproducible Research Q&A with Elena
 
@@ -28,7 +29,7 @@ We propose a LSTM-based sequential model that, through modelling the conversatio
 Reproducibility of research is a proof of its trustworthiness.
 Reproducibility often implies openness and accessibility of research that leads to its increased impact.
 Ease of reproducibility helps speed up the progress on solving research problems for those taking it further from the original study.
-I think researchers should focus on research reproducibility when publishing their work and I am happy to see a strong drive towards it in many fields, including computer science. 
+I think researchers should focus on research reproducibility when publishing their work and I am happy to see a strong drive towards it in many fields, including computer science.
 
 
 **How will making the research presented in your paper reproducible help increase its impact?**
