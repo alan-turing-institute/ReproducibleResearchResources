@@ -8,12 +8,11 @@ This is a public repository and all resources are available under a [CC-BY licen
 
 * [Announcement: Turing Reproducible Research Champions](#announcement-turing-reproducible-research-champions)
 * [FAQ: Open Access](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/FAQ_OpenAccess.md)
-<!---* [Call for Turing Reproducibile Research Champions](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/call-for-champions.md) [Apply by Sunday 25th Feb 2018]--->
 * [Reproducible Research Lunches](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md) [Every Friday at 12noon, usually in Ursula Franklin meeting room]
 
 ## Announcement: Turing Reproducible Research Champions
 
-Thursday 24th May 2018
+_Thursday 24th May 2018_
 
 We are delighted to announce our three Turing Reproducible Research Champions: Theo Damoulas, Elena Kochkina and Terry Lyons.
 
@@ -51,7 +50,7 @@ In collaboration with Imanol Perez Arribas, Guy Goodwin, John Geddes and Kate Sa
 
 The diagnosis and provision of feedback for psychiatric disorders is hampered by the dependency on narrative recall and the difficulty of defining their persistence over time.
 The shortcomings of current diagnostic approaches have motivated a ‘bottom up’ approach to monitoring using more objective data streams. However analysis of these data streams is very challenging.
-This paper demonstrates that it is possible to place people on a spectrum using simple mood zoom information (daily scores for several emotions); the dimension reduction and restructuring achieved by signatures meant that even with the small samples available one was able to use second order information (the order of different events: anger before depression, …) in addition to first order (intensity, longivity of depression) of events to give considerable classification power and allow the differing diagnoses of the communities participating in this trial to be well separated. 
+This paper demonstrates that it is possible to place people on a spectrum using simple mood zoom information (daily scores for several emotions); the dimension reduction and restructuring achieved by signatures meant that even with the small samples available one was able to use second order information (the order of different events: anger before depression, …) in addition to first order (intensity, longivity of depression) of events to give considerable classification power and allow the differing diagnoses of the communities participating in this trial to be well separated.
 
 Given the size of the trial, and the complex noisy nature of the data this was an excellent outcome clinically and from a data science point of view.
 Speciﬁcally, we sought, and succeeded to a good degree, to classify the diagnosis of participants on the basis of their evolving mood and predict their mood the following day.
@@ -65,8 +64,8 @@ Thank you to all the members of the Turing Reproducible Research community.
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/3626306?s=400&v=4" width="100px;"/><br /><sub>Kirstie Whitaker</sub>](https://github.com/kirstiejane)<br /> :speech_balloon: [:book:](https://github.com/alan-turing-institute/ReproducibleResearchResources/commits?author=kirstiejane) 🤔 :mag: :loudspeaker: | [<img src="https://avatars2.githubusercontent.com/u/21147592?s=460&v=4" width="100px;"/><br /><sub>Martin O'Reilly</sub>](https://github.com/martintoreilly)<br /> :speech_balloon: [📖](https://github.com/alan-turing-institute/ReproducibleResearchResources/commits?author=martintoreilly) 🤔 :mag: :loudspeaker: |
-| :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/3626306?s=400&v=4" width="100px;"/><br /><sub>Kirstie Whitaker</sub>](https://github.com/kirstiejane)<br /> :speech_balloon: [:book:](https://github.com/alan-turing-institute/ReproducibleResearchResources/commits?author=kirstiejane) 🤔 :mag: :loudspeaker: | [<img src="https://avatars2.githubusercontent.com/u/21147592?s=460&v=4" width="100px;"/><br /><sub>Martin O'Reilly</sub>](https://github.com/martintoreilly)<br /> :speech_balloon: [📖](https://github.com/alan-turing-institute/ReproducibleResearchResources/commits?author=martintoreilly) 🤔 :mag: :loudspeaker: | [<img src="https://avatars3.githubusercontent.com/u/25640708?s=400&v=4" width="100px;"/><br /><sub>Louise Bowler</sub>](https://github.com/LouiseABowler)<br /> :speech_balloon: [📖](https://github.com/alan-turing-institute/ReproducibleResearchResources/commits?author=LouiseABowler) 🤔 | [<img src="https://avatars2.githubusercontent.com/u/5434836?s=400&v=4" width="100px;"/><br /><sub>Oliver Strickson</sub>](https://github.com/ots22)<br /> :speech_balloon: |
+| :---: | :---: | :---: | :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
