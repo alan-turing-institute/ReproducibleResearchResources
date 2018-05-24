@@ -26,7 +26,7 @@ Congratulations to all our Champions!
 Regular updates about each of the Champions will be posted on their separate pages and on the #reproducible-research Slack channel.
 Further details about the Champions programme can be found [here](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/call-for-champions.md).
 
-### Theo Damoulas
+### [Theo Damoulas](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/theo-damoulas.md)
 *Spatio-temporal Bayesian on-line changepoint detection with model selection*
 
 In collaboration with Jeremias Knoblauch
@@ -35,7 +35,7 @@ We develop probabilistic algorithms for modelling and predicting non-stationary 
 This specific family of algorithms can be thought of as segmenting a complex dynamic process via more manageable local models.
 Furthermore, we better exploit spatio-temporal correlation and retain multiple models and multiple potential segmentations in a formal probabilistic manner.
 
-### Elena Kochkina
+### [Elena Kochkina](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/elena-kochkina.md)
 *Turing at SemEval-2017 Task 8: Sequential approach to rumour stance classification with branch-LSTM*
 
 In collaboration with Maria Liakata and Isabelle Augenstein
@@ -44,7 +44,7 @@ In this paper we deal with rumour stance classification, the task of determining
 Stance classification is considered to be an important step towards rumour verification, therefore performing well in this task is expected to be useful in debunking false rumours.
 We propose a LSTM-based sequential model that, through modelling the conversational structure of tweets, outperforms other systems submitted to the SemEval-2017 Task 8.
 
-### Terry Lyons
+### [Terry Lyons](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/terry-lyons.md)
 *A signature-based machine learning model for distinguishing bipolar disorder and borderline personality disorder*
 
 In collaboration with Imanol Perez Arribas, Guy Goodwin, John Geddes and Kate Saunders
