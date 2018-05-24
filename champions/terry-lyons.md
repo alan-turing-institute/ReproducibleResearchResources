@@ -15,7 +15,10 @@ Available at [arXiv:1707.07124](https://arxiv.org/abs/1707.07124) [stat.ML].
 | Imanol Perez Arribas          | Terry Lyons
 
 #### Clinical
-Guy Goodwin, John Geddes, Kate Saunders
+
+| <span style="font-weight:normal">*Awaiting image*</span> | <span style="font-weight:normal">*Awaiting image*</span> | <img src="./kate-saunders-square.png" height="300"> |
+| :-----------------------:|:---------------------------:|:-----------------------:|
+| Guy Goodwin              | John Geddes                 | Kate Saunders           |
 
 ## Reproducible Research Q&A with Terry
 
