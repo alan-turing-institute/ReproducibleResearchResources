@@ -17,7 +17,7 @@ results. Without the evidence of what was done, journal articles are simply
 nice, interesting stories. All readers, not just collaborators or the original
 authors, must be able to check published research.
 
-For the Turing, reproducibility ensures that the wider academic, indus˜try and
+For the Turing, reproducibility ensures that the wider academic, industry and
 governmental communities we operate in can easily validate, replicate and build
 on the work we produce. This helps us extend the Turing's impact beyond the
 immediate outputs of the institute itself, providing a "force multiplier" effect
@@ -67,7 +67,7 @@ highlighting reproducible research best practice at the institute.
 ## What’s in it for the Turing?
 
 **Impact:** One of the Turing's goals is to increase the impact of data science
-research and ensuring that the institute's research reproducible is a key
+research and ensuring that the institute's research is reproducible is a key
 part of this.
 
 **Examples of good practice:** The publications from the Reproducible Research
