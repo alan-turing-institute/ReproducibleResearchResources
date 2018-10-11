@@ -10,11 +10,12 @@ All too often research is published as "Trust me, I'm a scientist": there is no 
 
 Each of the lunches will be themed around a challenge you see in making your research reproducible, or a tool or technique that will make your life easier. You can bring your laptop along to the session to try things out as we go along, or just come along with your lunch and listen to learn more!
 
-Everyone is welcome, there's no need to sign up or register. If you can't join on Monday lunchtimes, you're very welcome to email Kirstie (kwhitaker@turing.ac.uk), Martin (moreilly@turing.ac.uk) or Louise (lbowler@turing.ac.uk) or ping them a message in the [#reproducible-research Slack channel](slack://channel?team=Turing&id=reproducible-research).
+Everyone is welcome, there's no need to sign up or register. If you can't join on Monday lunchtimes, you're very welcome to email Kirstie (kwhitaker@turing.ac.uk), Martin (moreilly@turing.ac.uk) or Louise (lbowler@turing.ac.uk) or ping them a message in the [#reproducible-research Slack channel](https://alan-turing-institute.slack.com/messages/C6XEYUQPR).
 
 ## Autumn 2018 Schedule
 
-Suggestions for future sessions are always welcome - get in touch with Kirstie, Martin or Louise via email or [Slack](slack://channel?team=Turing&id=reproducible-research).
+Suggestions for future sessions are always welcome - get in touch with Kirstie, Martin or Louise via email or [Slack](https://alan-turing-institute.slack.com/messages/C6XEYUQPR).
+
 
 | Date                  | Topic                                                |
 | --------------------- | ---------------------------------------------------- |
