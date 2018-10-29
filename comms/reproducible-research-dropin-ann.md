@@ -17,10 +17,10 @@ Everyone is welcome, there's no need to sign up or register. If you can't join o
 Suggestions for future sessions are always welcome - get in touch with Kirstie, Martin or Louise via email or [Slack](https://alan-turing-institute.slack.com/messages/C6XEYUQPR).
 
 
-| Date                  | Topic                                                | Resources |
-| --------------------- | ---------------------------------------------------- |-----------------------------------
-| Monday 15th October   | Hacktoberfest (Kirstie)                              |  |
-| Monday 29th October   | Sharing your work with Binder (Louise)               | [Getting started notes from lunch](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/resources/binder.md) |
-| Monday 12th November  | Testing and Travis (Martin)                          |  |
+| Date                  | Topic                                                |
+| --------------------- | ---------------------------------------------------- |
+| Monday 15th October   | Hacktoberfest (Kirstie)                              |
+| Monday 29th October   | [Sharing your work with Binder (Louise)](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/resources/binder.md)|
+| Monday 12th November  | Testing and Travis (Martin)                          |
 | Monday 26th November  | Codes of Conduct (Kirstie)                           |  |
-| Monday 10th December  | _No meeting due to [Data Study Group](https://www.turing.ac.uk/events/data-study-group-december-2018)_ |  |
+| Monday 10th December  | _No meeting due to [Data Study Group](https://www.turing.ac.uk/events/data-study-group-december-2018)_ |
