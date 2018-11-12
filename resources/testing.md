@@ -14,3 +14,15 @@ _Reproducible Research Lunch on 12 Nov 2018 by Martin O'Reilly_
 
 ## General resources
 - The [testing lesson](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/) of the Turing's [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/) course.
+
+## Glossary
+
+* **regression** test: is the output the same as previously generated?
+* **end to end**, **system**, **integration**: when you run the whole pipeline on a given input, do you get the same output?
+* **unit tests**: low level tests for individual functions
+
+To be clear, all of the tests are "regression" tests - they're all trying to check if things are the same!
+Usually people will introduce a regression test when something has gone wrong to try to check a) when it has been fixed and b) to check whether the bug comes back in the future!
+
+In our discussion on 12 November, we came up with a rubric that end to end and unit tests are on one axis (low to high level) and regression is another dimension - with test-driven development on the other end of that scale.
+It isn't super important though, the point is that you can test at different times and at different scales.
