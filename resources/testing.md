@@ -11,3 +11,6 @@ _Reproducible Research Lunch on 12 Nov 2018 by Martin O'Reilly_
 - [Hadley Wickham guide to testthat](http://r-pkgs.had.co.nz/tests.html)
 
 ## Integrating automated testing with Github
+
+## General resources
+- The [testing lesson](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/) of the Turing's [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/) course.
