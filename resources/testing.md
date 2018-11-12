@@ -1,6 +1,16 @@
 # Introduction to testing your code
 _Reproducible Research Lunch on 12 Nov 2018 by Martin O'Reilly_ 
 
+Here's a list of some of the things that people think about when considering building tests for their code:
+
+* **randomness**: if there's some randomness in your code, how will you get the same results each time over?
+* **compare**: is it easy to compare outputs - for example if they have different floating point precision!
+* **time to run**: will it take a long time to run all these checks?
+* **different systems**: will my code give the same results on different systems?
+* **managing test files**: where do I keep the scripts, inputs, outputs etc
+* **edge cases**: how will I know I've found all the different reasons why a function could fail!?
+* **time to add the tests**: is it worth my time to add these tests? Will anyone use the code again?
+
 ## Automating existing sanity checks
 
 ## Automated testing frameworks
