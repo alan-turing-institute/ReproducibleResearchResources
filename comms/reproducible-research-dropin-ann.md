@@ -24,7 +24,7 @@ Suggestions for future sessions are always welcome - get in touch with Kirstie, 
 
 | Date                  | Topic                                                |
 | --------------------- | ---------------------------------------------------- |
-| _**Tuesday**_ 15th January | The Turing Way pizza party (4:30pm, location TBC) |
+| _**Tuesday**_ 15th January | The Turing Way pizza party (4:30pm, Enigma) |
 | Monday 28th January   | FAIR data (Kirstie)                                  |
 | Monday 11th February  | CODECHECK ([Stephen Eglen](https://www.turing.ac.uk/people/researchers/stephen-eglen)) |
 | Monday 25th February  | Provenance for Data Science ([Paolo Missier](https://www.turing.ac.uk/people/researchers/paolo-missier)) |
