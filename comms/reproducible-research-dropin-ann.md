@@ -15,7 +15,7 @@ Everyone is welcome, there's no need to sign up or register. If you can't join o
 
 ## 2019 Schedule
 
-We're kicking off this term's activities with a ***pizza party*** hosted by [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)! Join us on Tuesday 15th January at 4:30pm to catch up with the latest news about the project, share your suggestions and, of course, eat some delicious pizza :pizza: :yum:. Everyone is welcome, but it would be really helpful for catering purposes if you could sign up here.
+We're kicking off this term's activities with a ***pizza party*** hosted by [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)! Join us on Tuesday 15th January at 4:30pm to catch up with the latest news about the project, share your suggestions and, of course, eat some delicious pizza :pizza: :yum:. Everyone is welcome, but it would be really helpful for catering purposes if you could sign up [here](https://goo.gl/forms/Nueao35HhVC01IAW2).
 
 Our regular ***lunchtime talks*** will get started on Monday 28th January, with Kirstie leading a session about FAIR - Findable, Accessible, Interoperable and Reusable - data.
 You can see the full term's schedule below - look out for next month's talks from our guest speakers Stephen Eglen and Paolo Missier.
