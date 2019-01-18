@@ -12,7 +12,7 @@ Available at [arXiv:1704.07221](https://arxiv.org/abs/1704.07221) [cs.CL].
 Elena's co-authors were Maria Liakata and Isabelle Augenstein.
 
 
-| <img src="./elena-kochkina-square.jpg" height="300"> | <img src="./maria-liakata-square.jpg" height="300">
+| <img src="./images/elena-kochkina-square.jpg" height="300"> | <img src="./images/maria-liakata-square.jpg" height="300">
 | :-----------------------:|:---------------------------:
 | Elena Kochkina           | Maria Liakata
 

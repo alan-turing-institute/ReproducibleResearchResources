@@ -10,13 +10,13 @@ Available at [arXiv:1707.07124](https://arxiv.org/abs/1707.07124) [stat.ML].
 
 #### Rough paths/signatures
 
-| <img src="./imanol-perez-arribas-square.jpg" height="300"> | <img src="./terry-lyons-square.jpg" height="300">
+| <img src="./images/imanol-perez-arribas-square.jpg" height="300"> | <img src="./images/terry-lyons-square.jpg" height="300">
 | :-----------------------:|:---------------------------:
 | Imanol Perez Arribas          | Terry Lyons
 
 #### Clinical
 
-| <span style="font-weight:normal">*Awaiting image*</span> | <span style="font-weight:normal">*Awaiting image*</span> | <img src="./kate-saunders-square.png" height="300"> |
+| <span style="font-weight:normal">*Awaiting image*</span> | <span style="font-weight:normal">*Awaiting image*</span> | <img src="./images/kate-saunders-square.png" height="300"> |
 | :-----------------------:|:---------------------------:|:-----------------------:|
 | Guy Goodwin              | John Geddes                 | Kate Saunders           |
 

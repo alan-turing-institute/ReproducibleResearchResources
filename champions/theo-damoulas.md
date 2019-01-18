@@ -10,7 +10,7 @@ Available at [arXiv:1805.05383](https://arxiv.org/abs/1805.05383) [stat.ML].
 
 Theo's PhD student, Jeremias Knoblauch, led the development of the algorithm.
 
-<img src="./theo-damoulas-square.jpg" height="300"> | <img src="./jeremias-knoblauch-square.jpg" height="300">
+<img src="./images/theo-damoulas-square.jpg" height="300"> | <img src="./images/jeremias-knoblauch-square.jpg" height="300">
 :-----------------------:|:---------------------------:
  Theo Damoulas           | Jeremias Knoblauch
 
