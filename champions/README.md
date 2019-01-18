@@ -37,7 +37,7 @@ next level in terms of reproducibility and help us establish a culture of
 reproducible research at the Turing. Our three Reproducible Research Champions
 are:
 
-| [<img src="https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/theo-damoulas-square.jpg" height="300px;"/><br />Theo Damoulas](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/theo-damoulas.md) | [<img src="https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/elena-kochkina-square.jpg" height="300px;"/><br />Elena Kochkina](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/elena-kochkina.md) | [<img src="https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/terry-lyons-square.jpg" height="300px;"/><br />Terry Lyons](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/terry-lyons.md)  |
+| [<img src="images/theo-damoulas-square.jpg" height="300px;"/><br />Theo Damoulas](theo-damoulas.md) | [<img src="images/elena-kochkina-square.jpg" height="300px;"/><br />Elena Kochkina](elena-kochkina.md) | [<img src="images/terry-lyons-square.jpg" height="300px;"/><br />Terry Lyons](terry-lyons.md)  |
 | :---: | :---: | :---: |
 
 Each of our Champions has proposed an example of their work that they want to
