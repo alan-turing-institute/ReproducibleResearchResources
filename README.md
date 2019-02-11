@@ -71,5 +71,5 @@ Thank you to all the members of the Turing Reproducible Research community.
 
 This project follows the [all-contributors][all-contributors] specification and this [emoji key][emojis] explains the different contributions.
 
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[emojis]: https://allcontributors.org/docs/en/emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
