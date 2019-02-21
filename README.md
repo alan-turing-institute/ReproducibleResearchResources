@@ -23,7 +23,7 @@ We’re really excited to be working on such a range of projects, each of which 
 Congratulations to all our Champions!
 
 Regular updates about each of the Champions will be posted on their separate pages and on the #reproducible-research Slack channel.
-Further details about the Champions programme can be found [here](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/champions-programme.md).
+Further details about the Champions programme can be found [here](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/README.md).
 
 ### [Theo Damoulas](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/champions/theo-damoulas.md)
 *Spatio-temporal Bayesian on-line changepoint detection with model selection*
@@ -71,5 +71,5 @@ Thank you to all the members of the Turing Reproducible Research community.
 
 This project follows the [all-contributors][all-contributors] specification and this [emoji key][emojis] explains the different contributions.
 
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[emojis]: https://allcontributors.org/docs/en/emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
