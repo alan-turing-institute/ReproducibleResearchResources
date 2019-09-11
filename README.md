@@ -6,9 +6,9 @@ This is a public repository and all resources are available under a [CC-BY licen
 
 ## Table of contents
 
+* [Reproducible Research Lunches](comms/reproducible-research-dropin-ann.md): Every other Monday at 12noon, usually in David Blackwell or Lovelace meeting rooms
 * [Announcement: Turing Reproducible Research Champions](#announcement-turing-reproducible-research-champions)
 * [FAQ: Open Access](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/FAQ_OpenAccess.md)
-* [Reproducible Research Lunches](https://github.com/alan-turing-institute/ReproducibleResearchResources/blob/master/comms/reproducible-research-dropin-ann.md) [Every other Monday at 1pm, usually in Mary Shelley/Isaac Asimov meeting rooms]
 
 ## Announcement: Turing Reproducible Research Champions
 
